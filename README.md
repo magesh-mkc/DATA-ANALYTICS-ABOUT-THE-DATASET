@@ -190,6 +190,6 @@ o	Travel time
 
 o	Traffic conditions
 
-# Conclusion
+# Result
 Thus, the dataset and data analytics concepts were studied successfully, including publicly available and real-time datasets and their applications.
 
