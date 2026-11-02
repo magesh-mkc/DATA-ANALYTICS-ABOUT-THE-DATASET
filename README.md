@@ -81,9 +81,9 @@ o	Government Open Data Portals
 
 o	Google BigQuery Public Datasets 
 
-•	India's Open Government Data Platform (data.gov.in) provides publicly accessible datasets in areas such as education, health, environment, economy, and science and technology. 
+o	India's Open Government Data Platform (data.gov.in) provides publicly accessible datasets in areas such as education, health, environment, economy, and science and technology. 
 
-•	Public datasets are useful because they allow students to practice analytics without collecting data themselves. 
+o	Public datasets are useful because they allow students to practice analytics without collecting data themselves. 
 
 #### Examples: 
 o	Iris Dataset – flower classification 
@@ -97,9 +97,9 @@ o	Online Retail Dataset – customer purchasing analysis
 o	Weather Dataset – environmental analysis
 
 ### Real-Time Dataset
-•	A real-time dataset contains data that is generated or collected continuously from a real-world system. 
+o	A real-time dataset contains data that is generated or collected continuously from a real-world system. 
 
-•	The data is made available for processing and analysis immediately or with very little delay after it is generated.
+o	The data is made available for processing and analysis immediately or with very little delay after it is generated.
 
 #### Real-time data is often produced by: 
 o	Sensors 
@@ -118,12 +118,12 @@ o	Financial systems
 
 o	Medical devices 
 
-•	Real-time data can continuously change as new observations arrive. 
+o	Real-time data can continuously change as new observations arrive. 
 
-•	It is commonly used for real-time monitoring, prediction, and decision-making. 
+o	It is commonly used for real-time monitoring, prediction, and decision-making. 
 
 #### Examples
-•	Smart Traffic 
+o	Smart Traffic 
 
 o	Vehicle speed 
 
@@ -133,7 +133,7 @@ o	Traffic density
 
 o	Location 
 
-•	Smart Grid 
+o	Smart Grid 
 
 o	Electricity consumption 
 
@@ -154,7 +154,7 @@ o	Temperature
 
 o	Oxygen level 
 
-•	Weather 
+o	Weather 
 
 o	Temperature 
 
@@ -164,7 +164,7 @@ o	Rainfall
 
 o	Wind speed 
 
-•	Banking 
+o	Banking 
 
 o	Transactions 
 
